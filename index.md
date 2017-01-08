@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
   <head>
     <meta charset="utf-8">
@@ -41,13 +41,13 @@
 
 <p>“This generation is claimed to have the whole world at its fingertips, however we have to account for the many that are left out,” said Dr. Smith. </p>
 </body>
-</div>
+
       <hr>
 
       <footer>
         <p>&copy; 2015 Company, Inc.</p>
       </footer>
-    </div> <!-- /container -->
+
 
 
     <!-- Bootstrap core JavaScript
