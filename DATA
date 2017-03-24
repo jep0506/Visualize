@@ -72,7 +72,7 @@ $(function() {
       text: 'State Education Quality Score vs. State Internet Access'
     },
     subtitle: {
-      text: 'Source: EdWeek 2016'
+      text: 'Source: EdWeek 2016 and United States Census Bureu's "Computer and Internet Use in the United States'
     },
     xAxis: {
       title: {
