@@ -19,7 +19,7 @@
 <div class="container"></div>
     <body>
       <h2>Could education be a casualty of the digital divide?</h2>
-      <p> States that have a higher percentage of people who have no internet access have been found to be the states with lower qualities of education. The map below shows that New Mexico (47.4 %) and Mississippi (49.7 %) are the two states that have the most people without internet access. This correlates with state education quality scores released by Education Week for 2016, where these states are ranked as the 49th and 50th respectively out of 51 (including the District of Columbia). The only state that did worse was Nevada, who has 36.8% of people unable to connect to the internet at home. </p> 
+      <p> 	Are students without internet access at a disadvantage? On a state level, those that have a higher percentage of people without internet access the same states with lower qualities of education. The map below shows that New Mexico (47.4 %) and Mississippi (49.7 %) are the two states that have the highest populations without home internet access. This correlates with state education quality scores released by Education Week for 2016, where these states rank as the 49th and 50th respectively out of 51 (including the District of Columbia). The only state that performed worse was Nevada, where 36.8% of the population are unable to connect to the internet at home.  </p> 
 
       
       <iframe width="100%" height="520" frameborder="20" src="https://jep0506.cartodb.com/viz/468fd70a-0b0a-11e6-84a2-0e98b61680bf/embed_map" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
@@ -28,21 +28,22 @@
 
 <div id="container" style="min-width: 310px; height: 400px; max-width: 800px; margin: 0 auto"></div>
 
-<p>EdWeek also recently did a story on Calhoun County, which is claimed to have the “slowest internet in Mississippi.” According to the article, the schools in this district have given up on online tools and "buying the new digital technologies that are transforming schools elsewhere." Some students feel as if they are falling behind other schools in the country. Clemmie Jean Weddle told EdWeek, "I had those 15 pages, and they had the Internet at their fingertips."</p>
+<p>EdWeek recently did a story on Calhoun County, wherei “slowest internet in Mississippi” is claimed to be. According to the article, the schools in this district have given up on online tools and "buying the new digital technologies that are transforming schools elsewhere." Some students feel as if they are falling behind other schools in the country. Clemmie Jean Weddle told EdWeek, "I had those 15 pages, and they had the Internet at their fingertips." </p>
 
-<p>In the situation of Calhoun County, an entire school district is on the wrong side of the digital divide. How about when you are the one of a few students at your school that can’t connect?</p>
+<p>Everyone is in the same boat in Calhoun County, an entire school district is on the wrong side of the digital divide. What happens when you are the one of a few students at your school that can’t connect? </p>
 
-<p>At Calhoun County schools, teachers and students knew there was an issue with connecting to the internet because they were all experiencing it. Therefore, teachers were straying away from using online tools and other technology that would create an issue for students to complete or have access to. Students that don’t have internet at home, while their peers do tend to fall behind in the classroom.</p>
+<p>At Calhoun County schools, teachers and students knew there was an issue with connecting to the internet because they were all experiencing it. This led teachers to look for alternatives to online tools and technology that would create an issue for students to complete or have access to. When there is a digital divide at the classroom level, those students without home internet access tend to fall behind.</p>
 
-<p>Rachel Monahan wrote an article for The Atlantic telling the story of the Kent School DIstrict who tried to bridge the digital divide by giving students their own laptops. However, some students weren’t bringing their laptops home because they couldn’t connect there. According to the Atlantic, about 2,500 students in Kent  cannot connect to the internet once they get home. When the laptops were given out, the curriculum moved toward “project- based learning” which heavily relies on the Internet. As Thuan Nguyen tell the Atlantic, “if you’re not able to provide that last level of connectivity, you’ve now widened the gap in terms of what kids can do, not to mention the expectation around that.” </p>
+<p>Rachel Monahan wrote an article for The Atlantic telling the story of the Kent School DIstrict that tried to bridge the digital divide by giving students their own laptops. Teachers noticed that some students weren’t bringing their laptops home because they couldn’t connect there. According to the Atlantic, about 2,500 students in Kent  cannot connect to the internet once they get home. When the laptops were given out, the curriculum moved toward “project- based learning” which heavily relies on the Internet. As Thuan Nguyen tells the Atlantic, “if you’re not able to provide that last level of connectivity, you’ve now widened the gap in terms of what kids can do, not to mention the expectation around that.” </p>
 
-<p>Dr. Smith says that not having home Internet connection makes simple tasks a lot harder for students because they can’t do work at home. “It will take a lot more effort and a lot more time, and not everyone has the luxury of having these open for school work.” </p>
+<p>Dr. Smith says that not having home Internet access makes simple tasks a lot harder for students because they can’t do work at home. “It will take a lot more effort and a lot more time, and not everyone has the luxury of having these open for school work.”  </p>
 
-<p>These problems have not gone unnoticed by politicians and by President Obama who has started initiatives to try to make sure every school has access to the internet through a program called ConnectEd. He announced this initiative in June 2013, and vowed “that within the next 5 years, 99% percent of students would be connected to next- generation broadband and high- speed wireless in their school and libraries.” </p>
+<p>These problems have not gone unnoticed by politicians and by President Obama who has started initiatives to try to make sure every school has access to the internet through his ConnectEd program. He announced this initiative in June 2013, and vowed “that within the next 5 years, 99% of students [will] be connected to next- generation broadband and high- speed wireless in their school and libraries.” </p>
 
-<p>	However Obama has not only focused on schools, the offshoot of ConnectEd, ConnectHome, plans to increase internet access for low income families. On the website, ConnectHome is described as a “public- private collaboration to narrow the digital divide for families with school- age children who live in HUD- assisted housing.” It is considered to be the next step in Obama’s vow to close the digital divide. </p>
+<p>	Obama has not only focused on schools, the offshoot of his ConnectEd program, ConnectHome, plans to increase home internet access for low income families. On its website, ConnectHome is described as a “public- private collaboration to narrow the digital divide for families with school- age children who live in HUD- assisted housing.” It is considered to be the next step in Obama’s vow to close the digital divide. </p>
 
-<p>“This generation is claimed to have the whole world at its fingertips, however we have to account for the many that are left out,” said Dr. Smith. </p>
+<p>“This generation is claimed to have the whole world at its fingertips, but those left out need to be accounted for” said Dr. Smith. 
+ </p>
 </body>
 
       <hr>
